@@ -1,6 +1,5 @@
 "use client";
 import { Text, Button, Callout, TextField } from "@radix-ui/themes";
-// import SimpleMDE from "react-simplemde-editor";
 import dynamic from "next/dynamic";
 import { useForm, Controller } from "react-hook-form";
 import axios from "axios";
